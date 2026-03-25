@@ -1,0 +1,388 @@
+{
+  "metadata": {
+    "file_processed": "Local_Mock_History_Data",
+    "operating_mode": "Mock UI Testing",
+    "total_predictions": 63,
+    "status": "Success"
+  },
+  "results": [
+    {
+      "date": "2021-07-04 00:00:00",
+      "coin": "Aave",
+      "signal": "DOWN",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-05 00:00:00",
+      "coin": "Aave",
+      "signal": "UP",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-06 00:00:00",
+      "coin": "Aave",
+      "signal": "UP",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-04 00:00:00",
+      "coin": "Binancecoin",
+      "signal": "UP",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-05 00:00:00",
+      "coin": "Binancecoin",
+      "signal": "UP",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-06 00:00:00",
+      "coin": "Binancecoin",
+      "signal": "DOWN",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-04 00:00:00",
+      "coin": "Bitcoin",
+      "signal": "UP",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-05 00:00:00",
+      "coin": "Bitcoin",
+      "signal": "UP",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-06 00:00:00",
+      "coin": "Bitcoin",
+      "signal": "UP",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-04 00:00:00",
+      "coin": "Cardano",
+      "signal": "DOWN",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-05 00:00:00",
+      "coin": "Cardano",
+      "signal": "UP",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-06 00:00:00",
+      "coin": "Cardano",
+      "signal": "DOWN",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-04 00:00:00",
+      "coin": "Chainlink",
+      "signal": "DOWN",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-05 00:00:00",
+      "coin": "Chainlink",
+      "signal": "UP",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-06 00:00:00",
+      "coin": "Chainlink",
+      "signal": "DOWN",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-04 00:00:00",
+      "coin": "Cosmos",
+      "signal": "DOWN",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-05 00:00:00",
+      "coin": "Cosmos",
+      "signal": "DOWN",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-06 00:00:00",
+      "coin": "Cosmos",
+      "signal": "UP",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-04 00:00:00",
+      "coin": "Cryptocomcoin",
+      "signal": "DOWN",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-05 00:00:00",
+      "coin": "Cryptocomcoin",
+      "signal": "UP",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-06 00:00:00",
+      "coin": "Cryptocomcoin",
+      "signal": "UP",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-04 00:00:00",
+      "coin": "Dogecoin",
+      "signal": "DOWN",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-05 00:00:00",
+      "coin": "Dogecoin",
+      "signal": "DOWN",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-06 00:00:00",
+      "coin": "Dogecoin",
+      "signal": "DOWN",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-04 00:00:00",
+      "coin": "Eos",
+      "signal": "UP",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-05 00:00:00",
+      "coin": "Eos",
+      "signal": "UP",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-06 00:00:00",
+      "coin": "Eos",
+      "signal": "DOWN",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-04 00:00:00",
+      "coin": "Ethereum",
+      "signal": "DOWN",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-05 00:00:00",
+      "coin": "Ethereum",
+      "signal": "UP",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-06 00:00:00",
+      "coin": "Ethereum",
+      "signal": "DOWN",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-04 00:00:00",
+      "coin": "Iota",
+      "signal": "DOWN",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-05 00:00:00",
+      "coin": "Iota",
+      "signal": "DOWN",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-06 00:00:00",
+      "coin": "Iota",
+      "signal": "DOWN",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-04 00:00:00",
+      "coin": "Litecoin",
+      "signal": "DOWN",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-05 00:00:00",
+      "coin": "Litecoin",
+      "signal": "UP",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-06 00:00:00",
+      "coin": "Litecoin",
+      "signal": "DOWN",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-04 00:00:00",
+      "coin": "Monero",
+      "signal": "UP",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-05 00:00:00",
+      "coin": "Monero",
+      "signal": "UP",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-06 00:00:00",
+      "coin": "Monero",
+      "signal": "DOWN",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-04 00:00:00",
+      "coin": "Nem",
+      "signal": "UP",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-05 00:00:00",
+      "coin": "Nem",
+      "signal": "UP",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-06 00:00:00",
+      "coin": "Nem",
+      "signal": "DOWN",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-04 00:00:00",
+      "coin": "Polkadot",
+      "signal": "DOWN",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-05 00:00:00",
+      "coin": "Polkadot",
+      "signal": "UP",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-06 00:00:00",
+      "coin": "Polkadot",
+      "signal": "DOWN",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-04 00:00:00",
+      "coin": "Solana",
+      "signal": "UP",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-05 00:00:00",
+      "coin": "Solana",
+      "signal": "UP",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-06 00:00:00",
+      "coin": "Solana",
+      "signal": "UP",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-04 00:00:00",
+      "coin": "Stellar",
+      "signal": "DOWN",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-05 00:00:00",
+      "coin": "Stellar",
+      "signal": "DOWN",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-06 00:00:00",
+      "coin": "Stellar",
+      "signal": "DOWN",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-04 00:00:00",
+      "coin": "Tron",
+      "signal": "DOWN",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-05 00:00:00",
+      "coin": "Tron",
+      "signal": "DOWN",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-06 00:00:00",
+      "coin": "Tron",
+      "signal": "DOWN",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-04 00:00:00",
+      "coin": "Uniswap",
+      "signal": "DOWN",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-05 00:00:00",
+      "coin": "Uniswap",
+      "signal": "UP",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-06 00:00:00",
+      "coin": "Uniswap",
+      "signal": "DOWN",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-04 00:00:00",
+      "coin": "Wrappedbitcoin",
+      "signal": "UP",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-05 00:00:00",
+      "coin": "Wrappedbitcoin",
+      "signal": "UP",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-06 00:00:00",
+      "coin": "Wrappedbitcoin",
+      "signal": "UP",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-04 00:00:00",
+      "coin": "Xrp",
+      "signal": "DOWN",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-05 00:00:00",
+      "coin": "Xrp",
+      "signal": "DOWN",
+      "model_engine": "100% Specialist (Mock Data)"
+    },
+    {
+      "date": "2021-07-06 00:00:00",
+      "coin": "Xrp",
+      "signal": "DOWN",
+      "model_engine": "100% Specialist (Mock Data)"
+    }
+  ]
+}
